@@ -7,7 +7,7 @@ void main(){
   print(10 >= 10);
   print(10 <= 10);
 
-  print('eko' == 'eko');
-  print('eko' != 'eko');
+  print('Muhammad' == 'Muhammad');
+  print('Muhammad' != 'Muhammad');
 
 }

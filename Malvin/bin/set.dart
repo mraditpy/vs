@@ -7,23 +7,23 @@ void main(){
   print(numbers);
 
   var names = <String>{
-    'Eko',
-    'Eko',
-    'Kurniawan',
-    'Kurniawan',
-    'Khannedy',
+    'Malvin',
+    'Malvin',
+    'Wijaya',
+    'Wijaya',
+    'Lawi',
   };
 
-  // names.add('Eko');
-  // names.add('Eko');
-  // names.add('Kurniawan');
-  // names.add('Kurniawan');
-  // names.add('Khannedy');
+  // names.add('Malvin');
+  // names.add('Malvin');
+  // names.add('Wijaya');
+  // names.add('Wijaya');
+  // names.add('Lawi');
 
   print(names);
   print(names.length);
 
-  names.remove('Eko');
+  names.remove('Malvin');
   names.remove('Tidak Ada');
   print(names);
   print(names.length);

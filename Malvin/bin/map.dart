@@ -7,9 +7,9 @@ void main(){
   print(map1);
 
   var name = <String, String>{
-    'first': 'Eko',
-    'middle': 'Kurniawan',
-    'last': 'Khannedy',
+    'first': 'Malvin',
+    'middle': 'Wijaya',
+    'last': 'lawi',
   };
 
   // name['first'] = 'Eko';
@@ -19,7 +19,7 @@ void main(){
   print(name);
   print(name['first']);
 
-  name['middle'] = 'Nugraha';
+  name['middle'] = 'Wijaya';
   print(name);
 
   name.remove('last');

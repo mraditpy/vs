@@ -1,6 +1,6 @@
 void main() {
-  String firstName = 'Eko';
-  String lastName = "Khannedy";
+  String firstName = 'Malvin';
+  String lastName = "Wijaya";
 
   print(firstName);
   print(lastName);
@@ -12,7 +12,7 @@ void main() {
   print(text);
 
   var name1 = firstName + " " + lastName;
-  var name2 = 'Eko' ' Kurniawan' ' Khannedy';
+  var name2 = 'MAlvin' ' Wiajaya' ' Lawi';
 
   print(name1);
   print(name2);

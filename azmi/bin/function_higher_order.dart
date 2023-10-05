@@ -12,6 +12,6 @@ String filterBadWord(String name) {
 }
 
 void main(){
-  sayHello('Eko', filterBadWord);
+  sayHello('Muhammad', filterBadWord);
   sayHello('gila', filterBadWord);
 }

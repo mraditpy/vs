@@ -5,9 +5,9 @@ void sayHello({required String firstName, String lastName = 'Default'}){
 
 void main(){
 
-  sayHello(firstName: 'Eko');
-  sayHello(firstName: 'Eko');
-  sayHello(lastName: 'Khannedy', firstName: 'Budi');
-  sayHello(lastName: 'Khannedy', firstName: 'Eko');
+  sayHello(firstName: 'Muhammad');
+  sayHello(firstName: 'Muhammad');
+  sayHello(lastName: 'Azmi', firstName: 'Xavier');
+  sayHello(lastName: 'Azmi', firstName: 'Xavier');
 
 }

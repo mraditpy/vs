@@ -6,7 +6,7 @@ void main(){
   variable = true;
   print(variable);
 
-  variable = 'Eko';
+  variable = 'Muhammad ';
   print(variable);
 
 }

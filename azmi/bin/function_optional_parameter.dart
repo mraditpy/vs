@@ -3,7 +3,7 @@ void sayHello(String firstName, [String middleName = '', String lastName = '']){
 }
 
 void main(){
-  sayHello('Eko');
-  sayHello('Eko', 'Kurniawan');
-  sayHello('Eko', 'Kurniawan', 'Khannedy');
+  sayHello('Muhammad');
+  sayHello('Muhammad', 'Azmi');
+  sayHello('Muhammad', 'Azmi', 'Xavier');
 }

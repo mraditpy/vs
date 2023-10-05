@@ -1,5 +1,5 @@
 void main() {
-  var name = 'Eko';
+  var name = 'Muhammad';
 
   void sayHello(){
     var hello = 'Hello $name';

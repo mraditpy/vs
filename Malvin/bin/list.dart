@@ -8,9 +8,9 @@ void main(){
   print(listString);
 
   var names = <String>[
-    'Eko',
-    'Kurniawan',
-    'Khannedy',
+    'Malvin',
+    'Wijaya',
+    'lawi',
   ];
 
   // names.add('Eko');
