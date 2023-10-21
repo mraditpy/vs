@@ -2,7 +2,7 @@ enum CustomerLevel {regular, premium, vip}
 
 class Customer{
   String name;
-  CustomerLevel level;
+  CustomerLevel Level;
 
-  Customer(this.name, this.level);
+  Customer(this.name, this.Level);
 }

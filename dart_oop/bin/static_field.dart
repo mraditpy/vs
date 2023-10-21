@@ -1,6 +1,6 @@
 class Application {
-  static final String name = 'Belajar Dart OOP';
-  static final String author = 'Malvin Wijaya Lawi';
+  static final String author = "Muhammad Raditya Putra Yuwono";
+  static final String name = " Belajar Pemograman Dart";
 }
 
 void main() {
